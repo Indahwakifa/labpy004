@@ -49,7 +49,7 @@ Program terdiri dari dua komponen utama:
      * Nilai UTS
      * Nilai UAS
 
-<img src="/hasil input.png" width="500">
+<img src="/inputt.png" width="500">
 
    - Data divalidasi untuk memastikan format yang benar
 
@@ -102,7 +102,7 @@ Program terdiri dari dua komponen utama:
 
 ## Contoh Output
 
-<img src="/hasil output.png" width="500">
+<img src="/outputtt.png" width="500">
 
 
 
@@ -116,7 +116,7 @@ Program terdiri dari dua komponen utama:
 - Tidak memerlukan library tambahan
 
 ## Author
-Afdaal
+indah wafikah
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
